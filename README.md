@@ -28,43 +28,31 @@ A comprehensive review of existing literature on optimization methods for deep l
 ## 3. Quantization for Model Compression:
 
 Detailed exploration of quantization techniques, including fixed-point and dynamic quantization. The section evaluates the impact of quantization on model performance and inference speed, providing insights into the trade-offs involved.
+<img width="798" alt="Screenshot 2023-11-15 at 5 33 31 PM" src="https://github.com/Navtegh/Optimization-and-Acceleration-of-Real-Time-ToF-Data-Classification/assets/25746677/967dbfaa-71c8-464f-b48b-ba92281a3767">
+
 
 ## 4. Feature Extraction using PCA:
 
 This section delves into the application of Principal Component Analysis (PCA) for feature extraction and dimensionality reduction in ToF data. The process of applying PCA and its effects on neural network performance are discussed.
+<img width="652" alt="Screenshot 2023-11-15 at 5 26 34 PM" src="https://github.com/Navtegh/Optimization-and-Acceleration-of-Real-Time-ToF-Data-Classification/assets/25746677/f3a4c887-de6a-4bb9-ad46-6ff3f92ed7a0">
+
 
 ## 5. Network Pruning for Model Optimization:
 
 An examination of network pruning methods, such as magnitude-based pruning and structured pruning, in the context of ToF data classification. The section explores how pruning can lead to a more efficient and sparse model.
+<img width="904" alt="Screenshot 2023-11-15 at 5 29 53 PM" src="https://github.com/Navtegh/Optimization-and-Acceleration-of-Real-Time-ToF-Data-Classification/assets/25746677/9364a649-bf5f-4f38-991a-b3010825244b">
+
 
 ## 6. Experimental Setup:
 
-Details of datasets, neural network architecture, and the implementation of quantization, PCA-based feature extraction, and network pruning. Evaluation metrics used for comparing different models are described, providing transparency into the experimental process.
+Details of datasets, neural network architecture and the implementation of quantization, PCA-based feature extraction, and network pruning. Evaluation metrics used for comparing different models are described, providing transparency into the experimental process.
 
 ## 7. Results and Discussion:
 
 Presentation of experimental results and a thorough discussion of the findings. The section analyzes the trade-offs between speed and accuracy, offering insights into the effectiveness of each optimization technique.
 
-## 8. Conclusion:
-
-A summary of key findings, highlighting the significance of optimization methods for real-time ToF data classification. The conclusion discusses potential future research directions to further improve the efficiency and accuracy of deep learning models.
-
-## 9. References:
-
-A comprehensive list of cited sources, including research papers, books, and online resources.
-
-## Getting Started:
-
-Follow the instructions in the provided [Getting Started Guide](Getting_Started.md) to set up the environment, run experiments, and reproduce the results.
-
-
-## Acknowledgments:
-
-Acknowledgments and credits to individuals or organizations that contributed to the project.
 
 ## Issues and Contributions:
 
 Please check the [Issues](https://github.com/yourusername/yourrepository/issues) section for any known issues or to report new ones. Contributions are welcome through pull requests following the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
----
-Feel free to customize this README to suit the specifics of your GitHub project. It provides a structured and informative guide for users and contributors interested in your research and implementation.
