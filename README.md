@@ -1,5 +1,5 @@
-# TOF-Material-classification-on-per-pixel-basis
-# README: Optimization and Acceleration of Real-Time ToF Data Classification
+
+# Optimization and Acceleration of Real-Time ToF Data Classification
 
 ## Project Overview:
 
