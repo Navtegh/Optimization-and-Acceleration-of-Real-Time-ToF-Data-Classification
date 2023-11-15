@@ -14,8 +14,6 @@ This GitHub repository hosts the code and resources related to the research pape
 5. [Network Pruning for Model Optimization](#5-network-pruning-for-model-optimization)
 6. [Experimental Setup](#6-experimental-setup)
 7. [Results and Discussion](#7-results-and-discussion)
-8. [Conclusion](#8-conclusion)
-9. [References](#9-references)
 
 ## 1. Introduction:
 
