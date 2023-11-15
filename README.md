@@ -57,9 +57,6 @@ A comprehensive list of cited sources, including research papers, books, and onl
 
 Follow the instructions in the provided [Getting Started Guide](Getting_Started.md) to set up the environment, run experiments, and reproduce the results.
 
-## License:
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments:
 
